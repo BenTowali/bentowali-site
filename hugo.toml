@@ -20,6 +20,6 @@ theme = "smol"
     weight = 2
 
 	[[menu.footer]]
-		name = "Gitlab"
-		url = "https://gitlab.com/BenTowali"
+		name = "Github"
+		url = "https://github.com/BenTowali"
 		weight = 1
