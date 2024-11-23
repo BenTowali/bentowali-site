@@ -1,3 +1,3 @@
-[submodule "themes/smol"]
-	path = themes/smol
-	url = https://github.com/colorchestra/smol
+[submodule "themes/smol-catppuccin"]
+	path = themes/smol-catppuccin
+	url = https://github.com/BenTowali/smol-catppuccin

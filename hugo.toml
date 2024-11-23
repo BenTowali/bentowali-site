@@ -1,7 +1,7 @@
 baseURL = "https://bentowali.com/"
 languageCode = "en-us"
 title = "Ben Towali"
-theme = "smol"
+theme = "smol-catppuccin"
 
 # Theme settings
 [params]
