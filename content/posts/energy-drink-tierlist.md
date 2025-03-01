@@ -7,9 +7,12 @@ tags:
   - energy drinks
 ---
 
-**Last updated 27 feb 2025**
+**Last updated 1 mar 2025**
 
 Maybe in the future I'll write a post for each energy drink, for now I'm too lazy to do that
+
+## How does the rating work?
+Basically I give a number score between 1 and 10, but if two or more drinks already have that number score then I'll judge them against each other so like if 2 flavours have an 8.4 but one is lower then it means I like it less than the one above it, both are still an 8.4 but I prefer the other one.
 
 <!--more-->
 
@@ -59,15 +62,16 @@ Maybe in the future I'll write a post for each energy drink, for now I'm too laz
 43. Uplifter Sparkling Pineapple - It's a very weak pineapple flavour with the only flavour being acid 5.1/10
 44. Starter Original - Just a generic original taste 5.0/10
 45. Starter Original Zero Sugar - Just starter but less flavourful, at least its zero sugar 5.0/10
-46. Red Bull Yellow - It's like rasbperry + mango but there's something off about it 4.9/10
-47. Red Bull Mixed Fruit - It's like a weird pear 4.9/10
-48. Monster Rehab Tea + Lemonade - It's kinda like lemon ice tea, but it's not very good 4.8/10
-49. Nocco Grand Sour - It's like a meh sour flavour 4.8/10
-50. Red Bull Passionfruit - What. 4.7/10
-51. Nocco Juicy Melba - It tastes like a vanilla flavoured car battery 4.7/10
-52. Nocco Berruba - It's exactly like what an apple chupa chups would taste like 4.6/10
-53. Red Bull Wildflower & Pink Grapefruit - It's just a shittier Red Bull Green 4.5/10
-54. Nocco Ramonade - It's like a really sour apple soda 4.4/10
-55. Nocco Sunny Soda - It doesn't taste like cola at all 4.4/10
-56. Black Cat Original - Another "Original" tasting drink 4.3/10
-57. Dynamit Magic Tingle - I think it's trying to be blackcurrant but it fails so miserably and instead tastes like rubber, I've also always had the sentiment that there aren't bad energy drink flavours but this changes my mind 3.0/10
+46. Nocco Cola - It's just sparkling water with cola flavouring added to it 5.0/10
+47. Red Bull Yellow - It's like rasbperry + mango but there's something off about it 4.9/10
+48. Red Bull Mixed Fruit - It's like a weird pear 4.9/10
+49. Monster Rehab Tea + Lemonade - It's kinda like lemon ice tea, but it's not very good 4.8/10
+50. Nocco Grand Sour - It's like a meh sour flavour 4.8/10
+51. Red Bull Passionfruit - What. 4.7/10
+52. Nocco Juicy Melba - It tastes like a vanilla flavoured car battery 4.7/10
+53. Nocco Berruba - It's exactly like what an apple chupa chups would taste like 4.6/10
+54. Red Bull Wildflower & Pink Grapefruit - It's just a shittier Red Bull Green 4.5/10
+55. Nocco Ramonade - It's like a really sour apple soda 4.4/10
+56. Nocco Sunny Soda - It doesn't taste like cola at all 4.4/10
+57. Black Cat Original - Another "Original" tasting drink 4.3/10
+58. Dynamit Magic Tingle - I think it's trying to be blackcurrant but it fails so miserably and instead tastes like rubber, I've also always had the sentiment that there aren't bad energy drink flavours but this changes my mind 3.0/10
