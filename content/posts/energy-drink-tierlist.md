@@ -7,7 +7,7 @@ tags:
   - energy drinks
 ---
 
-**Last updated 1 mar 2025**
+**Last updated 3 apr 2025**
 
 Maybe in the future I'll write a post for each energy drink, for now I'm too lazy to do that
 
@@ -43,35 +43,37 @@ Basically I give a number score between 1 and 10, but if two or more drinks alre
 24. Monster Ultra Zero - Whenever I want an energy drink and don't really care which one I choose this, it's a very strong citrus flavour but so refreshing 7.8/10
 25. Monster Mango Loco - It's a very crispy (carbonated) mango flavour 7.7/10
 26. Monster Original - Out of all the "original" named flavours this one is the best 7.4/10
-27. Red Bull Curuba-Elderflower - It's like a green jelly or also similar to ultra paradise 7.2/10
-28. Monster Reserve White Pineapple - Pineapple flavour, nothing much more to say 7.2/10
-29. Monster Mule - For a monster "based on" ginger it hardly has a ginger flavour, but does have the ginger feel 7.2/10
-30. Nocco Limon del Sol - It's a knock off of Monster Aussie Lemonade and sprite 7.1/10
-31. Red Bull Green - It's a flowery butter flavour 6.8/10
-32. Nocco Golden Era - It's like an acidic yellow apple flavour 6.3/10
-33. Hustler Original - It's kinda like og monster but cheaper 6.1/10
-34. Red Bull Original - The "Original" taste but less strong 6.0/10
-35. Nocco Blood Orange - It's a orange sesame seed flavour 6.0/10
-36. Red Bull Peach - It's an inoffensive peach flavour 5.8/10
-37. Zet Original - It's the original flavour but weird 5.7/10
-38. Red Bull Blue - They definitely changed it, this used to be my favourite red bull but now it tastes nothing like blueberry 5.7/10
-39. Monster M3 - It's just original Monster but way more concentrated 5.4/10
-40. Monster Ultra Watermelon - Its a very fizzy sour watermelon ramune 5.2/10
-41. Monster Reserve Orange Dreamsicle - It tastes like a pastry we have called kreemisai 5.2/10
-42. Krating Daeng - It's the juice version of the original taste 5.2/10
-43. Uplifter Sparkling Pineapple - It's a very weak pineapple flavour with the only flavour being acid 5.1/10
-44. Starter Original - Just a generic original taste 5.0/10
-45. Starter Original Zero Sugar - Just starter but less flavourful, at least its zero sugar 5.0/10
-46. Nocco Cola - It's just sparkling water with cola flavouring added to it 5.0/10
-47. Red Bull Yellow - It's like rasbperry + mango but there's something off about it 4.9/10
-48. Red Bull Mixed Fruit - It's like a weird pear 4.9/10
-49. Monster Rehab Tea + Lemonade - It's kinda like lemon ice tea, but it's not very good 4.8/10
-50. Nocco Grand Sour - It's like a meh sour flavour 4.8/10
-51. Red Bull Passionfruit - What. 4.7/10
-52. Nocco Juicy Melba - It tastes like a vanilla flavoured car battery 4.7/10
-53. Nocco Berruba - It's exactly like what an apple chupa chups would taste like 4.6/10
-54. Red Bull Wildflower & Pink Grapefruit - It's just a shittier Red Bull Green 4.5/10
-55. Nocco Ramonade - It's like a really sour apple soda 4.4/10
-56. Nocco Sunny Soda - It doesn't taste like cola at all 4.4/10
-57. Black Cat Original - Another "Original" tasting drink 4.3/10
-58. Dynamit Magic Tingle - I think it's trying to be blackcurrant but it fails so miserably and instead tastes like rubber, I've also always had the sentiment that there aren't bad energy drink flavours but this changes my mind 3.0/10
+27. Kong Strong Tropical - It tastes like cotton candy concentrated water 7.3/10
+28. Red Bull Curuba-Elderflower - It's like a green jelly or also similar to ultra paradise 7.2/10
+29. Monster Reserve White Pineapple - Pineapple flavour, nothing much more to say 7.2/10
+30. Monster Mule - For a monster "based on" ginger it hardly has a ginger flavour, but does have the ginger feel 7.2/10
+31. Nocco Limon del Sol - It's a knock off of Monster Aussie Lemonade and sprite 7.1/10
+32. Red Bull Green - It's a flowery butter flavour 6.8/10
+33. Nocco Golden Era - It's like an acidic yellow apple flavour 6.3/10
+34. Hustler Original - It's kinda like og monster but cheaper 6.1/10
+35. Red Bull Original - The "Original" taste but less strong 6.0/10
+36. Nocco Blood Orange - It's a orange sesame seed flavour 6.0/10
+37. Red Bull Peach - It's an inoffensive peach flavour 5.8/10
+38. Zet Original - It's the original flavour but weird 5.7/10
+39. Red Bull Blue - They definitely changed it, this used to be my favourite red bull but now it tastes nothing like blueberry 5.7/10
+40. Monster M3 - It's just original Monster but way more concentrated 5.4/10
+41. Monster Ultra Watermelon - Its a very fizzy sour watermelon ramune 5.2/10
+42. Kong Strong Colossus - inoffensive original flavour 5.2/10
+43. Monster Reserve Orange Dreamsicle - It tastes like a pastry we have called kreemisai 5.2/10
+44. Krating Daeng - It's the juice version of the original taste 5.2/10
+45. Uplifter Sparkling Pineapple - It's a very weak pineapple flavour with the only flavour being acid 5.1/10
+46. Starter Original - Just a generic original taste 5.0/10
+47. Starter Original Zero Sugar - Just starter but less flavourful, at least its zero sugar 5.0/10
+48. Nocco Cola - It's just sparkling water with cola flavouring added to it 5.0/10
+49. Red Bull Yellow - It's like rasbperry + mango but there's something off about it 4.9/10
+50. Red Bull Mixed Fruit - It's like a weird pear 4.9/10
+51. Monster Rehab Tea + Lemonade - It's kinda like lemon ice tea, but it's not very good 4.8/10
+52. Nocco Grand Sour - It's like a meh sour flavour 4.8/10
+53. Red Bull Passionfruit - What. 4.7/10
+54. Nocco Juicy Melba - It tastes like a vanilla flavoured car battery 4.7/10
+55. Nocco Berruba - It's exactly like what an apple chupa chups would taste like 4.6/10
+56. Red Bull Wildflower & Pink Grapefruit - It's just a shittier Red Bull Green 4.5/10
+57. Nocco Ramonade - It's like a really sour apple soda 4.4/10
+58. Nocco Sunny Soda - It doesn't taste like cola at all 4.4/10
+59. Black Cat Original - Another "Original" tasting drink 4.3/10
+60. Dynamit Magic Tingle - I think it's trying to be blackcurrant but it fails so miserably and instead tastes like rubber, I've also always had the sentiment that there aren't bad energy drink flavours but this changes my mind 3.0/10
